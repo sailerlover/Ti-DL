@@ -14,8 +14,9 @@ Ti-DL: 13th Mar 19 - Release 1d
 macOS:   
 Ti-DL: 13th Mar 19 - Release 1d
 
-Android:
-[Experimental ARM64 - Release 1d](https://thoas.feralhosting.com/sorrow/Tidal-DL/Ti-DL_ARM64.zip)
+Android:   
+[Experimental ARM64 - Release 1d](https://thoas.feralhosting.com/sorrow/Tidal-DL/Ti-DL_ARM64.zip)   
+Can use guide from Qo-DL GHub page.
 
 ![](https://thoas.feralhosting.com/sorrow/Tidal-DL/GUI1.png)
 ![](https://thoas.feralhosting.com/sorrow/Tidal-DL/GUI2.png)
