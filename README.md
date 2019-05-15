@@ -1,6 +1,6 @@
 # Ti-DL
 Tool written in Python to download AACs & FLACs from Tidal for Windows, macOS & Linux.
-Sister of [Qo-DL](https://github.com/Sorrow446/Qobuz-DL).
+Sister of [Qo-DL](https://github.com/Sorrow446/Qobuz-DL) and [GPM-DL](https://github.com/Sorrow446/GPM-DL).
 
 Latest versions:   
 
